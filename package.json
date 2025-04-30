@@ -1,0 +1,21 @@
+{
+  "name": "vanilla-js-boilerplate",
+  "version": "1.0.0",
+  "description": "<p align=\"center\">   <br>   <img width=\"240\" src=\"./assets/tapps.png\" alt=\"logo of telegram web apps\">   <br>   <br> </p>",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^6.3.3"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.1.4",
+    "tailwindcss": "^4.1.4"
+  }
+}
